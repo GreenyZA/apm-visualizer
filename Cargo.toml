@@ -1,0 +1,9 @@
+[package]
+name = "apm-visualizer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+macroquad = "0.4"
+mavlink = { version = "0.18", features = ["dialect-ardupilotmega"] }
+serialport = "4"
