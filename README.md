@@ -7,7 +7,7 @@ intermediate forwarder is required — the app talks MAVLink v1 directly to the
 board over USB at 115 200 baud and renders craft attitude over a grid alongside a
 full telemetry panel.
 
-_Screenshots coming soon — this README image slot was intentionally cleared pending a proper capture run._
+![APM 2.5.2 telemetry demo (GPS coordinates redacted)](docs/apm-demo.gif)
 
 
 ## Features
